@@ -158,3 +158,11 @@ body {
     width: 42rem;
   }
 }
+
+.avatar{
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  object-position: 20% 10%; 
+  overflow: hidden;
+}
